@@ -22,6 +22,8 @@ menu:
       url: /people/
     - name: Contact Us
       url: /contactus/
+    - name: Home
+      url: /home/
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
